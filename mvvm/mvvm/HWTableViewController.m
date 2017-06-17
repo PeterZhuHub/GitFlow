@@ -26,6 +26,8 @@
     self.tableView.tableHeaderView = [[HWHeaderView alloc] initWithFrame:CGRectMake(0, 0, self.view.frame.size.width, 100)];
 
     self.viewModel = [[HWCellViewModel alloc] init];
+
+    NSLog(@"develop2");
 }
 
 #pragma mark - Table view data source
