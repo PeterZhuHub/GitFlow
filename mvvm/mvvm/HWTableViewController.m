@@ -31,6 +31,8 @@
 
     NSLog(@"develop3");
 
+    NSLog(@"bug1修复");
+
 
 }
 
