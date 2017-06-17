@@ -28,6 +28,10 @@
     self.viewModel = [[HWCellViewModel alloc] init];
 
     NSLog(@"develop2");
+
+    NSLog(@"develop3");
+
+
 }
 
 #pragma mark - Table view data source
