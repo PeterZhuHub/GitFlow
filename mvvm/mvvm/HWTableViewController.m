@@ -33,6 +33,7 @@
 
     NSLog(@"bug1修复");
 
+    NSLog(@"develop4");
 
 }
 
